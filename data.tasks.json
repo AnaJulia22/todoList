@@ -1,0 +1,5 @@
+[
+    {"nome":"Tarefa 1","descricao":"Descrição da Tarefa 1","data_termino":null,"prioridade":"Baixa","finalizada":"False"},
+    {"nome":"Tarefa 2","descricao":"Descrição da Tarefa 2","data_termino":"2023-06-25T13:00:00.000Z","prioridade":"Média","finalizada":"True"},
+    {"nome":"Tarefa 3","descricao":"Descrição da Tarefa 3","data_termino":null,"prioridade":"Alta","finalizada":"False"}
+]   
